@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# SHES MALL
+React 와 Node 를 사용한 쇼핑몰 개발 프로젝트
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
